@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session recycle bin",
+    "description": "Adds \"Delete session (move to recycle bin)\" and \"Delete session permanently\" to the session right-click menu, plus a restorable recycle-bin page."
+  }
+}
